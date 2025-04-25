@@ -22,7 +22,7 @@ import vercel from '@astrojs/vercel';
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://futz.vercel.app/",
+  site: "https://futz.space/",
   base: "/",
   trailingSlash: "always",
   output: 'static',
